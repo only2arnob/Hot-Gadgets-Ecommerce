@@ -1,0 +1,91 @@
+.logo{
+    width: 150px;
+    
+}
+section{
+    margin-bottom: 100px;
+}
+.navbar{
+    background-color: transparent;
+}
+.car{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position-x: -30px;
+    background-position-y: 350px;
+    align-content: center;
+    height: auto;
+}
+.carbg{
+    background-image: url(images/bg-1.png);
+   
+    background-position: center;
+    background-size:5% 80%;
+    background-repeat:no-repeat;
+    overflow-y: hidden;
+    overflow-x: hidden;
+        
+    
+}
+.car-img{
+    width: 100px;
+}
+
+.carousel-indicators [data-bs-target] { 
+    height: 5px;
+    background-image: linear-gradient(to left, orange 0%, gold 100% );
+    border-radius: 1px;
+    
+}
+.car p{
+    color: gray;
+}
+.carousel-item{
+    padding: 5px 10px;
+}
+
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    border: 0;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px #ebebeb;
+    border-radius: 10px;
+    padding: 50px 20px;
+}
+
+.box{
+    
+    
+    background-color: #ffffff;
+    border: none;
+    box-shadow: 5px 5px 20px #ebebeb;
+    border-radius: 10px;
+    padding:30px;
+    width: max-content;
+    border-radius: 0px 20px 0px 20px;
+}
+
+.box2{
+    background-color: #ffffff;
+    box-shadow: 5px 5px 20px #ebebeb;
+    padding:30px;
+    width: max-content;
+    margin-bottom: 25px;
+    border-radius: 20px 0px 20px 0px;
+}
+.im{
+    width: 100px;
+    height: 100px;
+}
+
+.categories h5{
+    text-align: center;
+    margin-top: 10px;
+}
